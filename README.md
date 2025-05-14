@@ -8,5 +8,5 @@ I am a solo project maker.
 University GitHub
 TBA(https://github.com/aakarsh-192)
 ## 🛠 Skills
-HTML, JavaScript, CSS, JsON, Python, C 
+HTML, JavaScript, CSS, JsON, Python, C, Java
 
