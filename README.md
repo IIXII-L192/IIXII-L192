@@ -6,8 +6,7 @@
 I am a solo project maker.
 ## 🔗 Links
 University GitHub
-TBA
-https://github.com/aakarsh-192
+TBA(https://github.com/aakarsh-192)
 ## 🛠 Skills
 HTML, JavaScript, CSS, JsON, Python, C 
 
