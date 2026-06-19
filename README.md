@@ -8,7 +8,7 @@ I am a solo project maker.
 University GitHub
 TBA(https://github.com/aakarsh-192)
 ## 🛠 Skills
-core webstack, JsON, Python, C, Java
+Brain
 ## Repositories
-94 privtae project repositories, satisfied with none of them.
+101 private & 2 public projects , satisfied with none of them.
 
