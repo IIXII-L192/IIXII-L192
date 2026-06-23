@@ -1,4 +1,4 @@
-<h1 align="center">L192</h1>
+<h1 align="center">AAKARSH (L192)</h1>
 
 <p align="center">
   I make websites, Android apps, tools, and quiet digital things.
