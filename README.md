@@ -14,7 +14,7 @@
 
 <p align="center">
   <sub>
-    <code>currently crafting: Aurea</code>
+    <code>currently crafting: ???</code>
     ·
     <code>thinking in: tools, rituals, quiet interfaces</code>
   </sub>
