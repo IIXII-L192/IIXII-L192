@@ -1,171 +1,164 @@
-<h1 align="left">Hi, I'm L192.</h1>
+<h1 align="center">L192</h1>
 
-<p>
-  I build websites, Android apps, tools, and quiet digital things.
+<p align="center">
+  I make websites, Android apps, tools, and quiet digital things.
   <br />
-  Some are useful. Some are personal. Some are only understood after they exist.
+  Somewhere between utility and atmosphere.
+</p>
+
+<p align="center">
+  <a href="https://anshu192.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://becoming192.vercel.app/">Becoming</a>
+  ·
+  <a href="https://apertureatlas192.vercel.app/">Aperture & Atlas</a>
 </p>
 
 ---
 
-## About
-
-I am a solo project maker.
-
-I started by building tools: things that solve, convert, track, launch, or simplify.
-
-Then I started building places: websites that feel less like pages and more like rooms someone can enter.
-
-Somewhere along the way, I realized I was not just making projects.
-
-I was making containers for the person I was becoming.
+<p align="center">
+  <i>I thought I was building websites.</i>
+  <br />
+  <i>I ended up realizing I was building myself.</i>
+</p>
 
 ---
 
-## What I Make
+## What I Build
 
-I like building things that have a reason to exist.
+I do not like making things that only exist because they can.
 
-Not just interfaces.
+I like making things with a reason.
 
-Not just features.
+Some projects are tools.  
+Some are places.  
+Some are containers for a future version of myself.
 
-Not just screens.
-
-Something with shape, atmosphere, purpose, and a reason to be opened.
-
-My work usually sits somewhere between:
+The best ones feel like they were waiting to exist.
 
 ```txt
-utility       → tools that do something
-atmosphere    → pages that feel alive
-memory        → places made to be filled later
-reflection    → things that reveal meaning slowly
+tools        → things that solve
+places       → things that hold
+stories      → things that reveal
+objects      → things that remain
 ```
 
 ---
 
-## Projects
+## Selected Work
 
-### Becoming
-
-A digital book about building things, searching for meaning, and realizing the thing being built was never only the work itself.
-
-`digital book · editorial web · personal narrative`
-
-[Read Becoming](https://becoming192.vercel.app/)
-
----
-
-### Aperture & Atlas
-
-A travel photo blog built before the travel began.
-
-A place made first, so life could later catch up to it.
-
-`travel · photography · quiet web`
-
-[Visit Aperture & Atlas](https://apertureatlas192.vercel.app/)
-
----
-
-### BunkWise
-
-An Android attendance and bunk-planning app.
-
-Made for students who need to know how far they can go before attendance pulls them back.
-
-`android · student tool · planner`
-
-[View Repository](https://github.com/IIXII-L192/BunkWise-App)
-
----
-
-### PocketOps
-
-A small Android utility dashboard for quick actions.
-
-Fast UPI, WhatsApp, Instagram shortcuts, and more tools planned ahead.
-
-`android · kotlin · utility`
-
-[View Repository](https://github.com/IIXII-L192/PocketOps-app)
-
----
-
-### Inochi
-
-A cinema companion built for discovering, curating, and returning to what is worth watching.
-
-`movies · curation · web`
-
-[Visit Inochi](https://inochi.vercel.app/)
-
----
-
-### Aurea
-
-A quiet Android-first object.
-
-One color. One reflection. One day.
-
-Designed around a 365-day widget experience.
-
-`android · widget · reflection · color`
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Becoming</h3>
+      <p>
+        A digital book about building things, searching for meaning,
+        and realizing the thing being built was never only the work itself.
+      </p>
+      <p><code>digital book · editorial web · personal narrative</code></p>
+      <a href="https://becoming192.vercel.app/">Read Becoming</a>
+    </td>
+    <td width="50%">
+      <h3>Aperture & Atlas</h3>
+      <p>
+        A travel photo blog built before the travel began.
+        A place made first, so life could later catch up to it.
+      </p>
+      <p><code>travel · photography · quiet web</code></p>
+      <a href="https://apertureatlas192.vercel.app/">Visit Aperture & Atlas</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Aurea</h3>
+      <p>
+        A quiet Android-first object built around one small daily ritual:
+        one color, one reflection, one day.
+      </p>
+      <p><code>android · widget · reflection · color</code></p>
+      <a href="https://aurea192.vercel.app/">Visit Aurea</a>
+    </td>
+    <td width="50%">
+      <h3>BunkWise</h3>
+      <p>
+        An Android attendance and bunk-planning app for students who need
+        to know how far they can go before attendance pulls them back.
+      </p>
+      <p><code>android · student tool · planner</code></p>
+      <a href="https://bunkwiser.vercel.app/">Visit BunkWise</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>PocketOps</h3>
+      <p>
+        A small Android utility dashboard for quick actions,
+        shortcuts, and phone-first operations.
+      </p>
+      <p><code>android · kotlin · utility</code></p>
+      <a href="https://pocketops192.vercel.app/">Visit PocketOps</a>
+    </td>
+    <td width="50%">
+      <h3>Inochi</h3>
+      <p>
+        A cinema companion built for discovering, curating,
+        and returning to what is worth watching.
+      </p>
+      <p><code>movies · curation · web</code></p>
+      <a href="https://inochi.vercel.app/">Visit Inochi</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Current Direction
 
-Right now, I am trying to build things that are not only beautiful and not only useful.
+Right now, I am trying to build things that are not only useful and not only beautiful.
 
-I want them to have both:
+I want them to have both.
 
 ```txt
 purpose + existence
 ```
 
-A tool should do something.
-
-A place should feel like something.
-
+A tool should do something.  
+A place should feel like something.  
 The best things, I think, do both.
 
 ---
 
-## Tools I Work With
+## My Stack
 
 ```txt
 Frontend       HTML · CSS · JavaScript
 Frameworks     Next.js · React
 Android        Kotlin · Android Studio
-Design         Typography · editorial layouts · mobile-first UI
+Design         typography · mobile-first UI · editorial layouts
 Deployment     Vercel · Railway
-Thinking       Build first. Understand later.
+Style          quiet interfaces · soft motion · intentional spacing
 ```
 
 ---
 
-## A Small Line I Keep Returning To
+## How I Think
 
-> I thought I was building websites.
->
-> I ended up realizing I was building myself.
+I usually build the container first.
 
----
+Then I become the person who can fill it.
 
-## Links
+That pattern has followed almost everything I have made.
 
-Portfolio: [anshu192.vercel.app](https://anshu192.vercel.app/)  
-Becoming: [becoming192.vercel.app](https://becoming192.vercel.app/)  
-Aperture & Atlas: [apertureatlas192.vercel.app](https://apertureatlas192.vercel.app/)  
+Aperture & Atlas came before the travel.  
+Becoming came after the realization.  
+Aurea is being made as a small object for time itself.
 
 ---
 
-<p align="left">
-  Most of my work is private.
+<p align="center">
+  <i>Most of my work is private.</i>
   <br />
-  Not because it is hidden.
+  <i>Not because it is hidden.</i>
   <br />
-  Because it is still becoming.
+  <i>Because it is still becoming.</i>
 </p>
