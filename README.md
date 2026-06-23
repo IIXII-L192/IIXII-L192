@@ -1,50 +1,3 @@
-<h1 align="center">L192</h1>
-
-<p align="center">
-  I make websites, Android apps, tools, and quiet digital things.
-  <br />
-  Somewhere between utility and atmosphere.
-</p>
-
-<p align="center">
-  <a href="https://anshu192.vercel.app/">Portfolio</a>
-  ·
-  <a href="https://becoming192.vercel.app/">Becoming</a>
-  ·
-  <a href="https://apertureatlas192.vercel.app/">Aperture & Atlas</a>
-</p>
-
----
-
-<p align="center">
-  <i>I thought I was building websites.</i>
-  <br />
-  <i>I ended up realizing I was building myself.</i>
-</p>
-
----
-
-## What I Build
-
-I do not like making things that only exist because they can.
-
-I like making things with a reason.
-
-Some projects are tools.  
-Some are places.  
-Some are containers for a future version of myself.
-
-The best ones feel like they were waiting to exist.
-
-```txt
-tools        → things that solve
-places       → things that hold
-stories      → things that reveal
-objects      → things that remain
-```
-
----
-
 ## Selected Work
 
 <table>
@@ -56,7 +9,9 @@ objects      → things that remain
         and realizing the thing being built was never only the work itself.
       </p>
       <p><code>digital book · editorial web · personal narrative</code></p>
-      <a href="https://becoming192.vercel.app/">Read Becoming</a>
+      <a href="https://becoming192.vercel.app/">
+        <img src="https://img.shields.io/badge/READ-BECOMING-7F9DB6?style=for-the-badge&labelColor=F4F0E8&color=7F9DB6" alt="Read Becoming">
+      </a>
     </td>
     <td width="50%">
       <h3>Aperture & Atlas</h3>
@@ -65,9 +20,12 @@ objects      → things that remain
         A place made first, so life could later catch up to it.
       </p>
       <p><code>travel · photography · quiet web</code></p>
-      <a href="https://apertureatlas192.vercel.app/">Visit Aperture & Atlas</a>
+      <a href="https://apertureatlas192.vercel.app/">
+        <img src="https://img.shields.io/badge/VISIT-APERTURE_&_ATLAS-BB8B5F?style=for-the-badge&labelColor=F4F0E8&color=BB8B5F" alt="Visit Aperture & Atlas">
+      </a>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>Aurea</h3>
@@ -76,7 +34,9 @@ objects      → things that remain
         one color, one reflection, one day.
       </p>
       <p><code>android · widget · reflection · color</code></p>
-      <a href="https://aurea192.vercel.app/">Visit Aurea</a>
+      <a href="https://aurea192.vercel.app/">
+        <img src="https://img.shields.io/badge/VISIT-AUREA-C6A15B?style=for-the-badge&labelColor=F4F0E8&color=C6A15B" alt="Visit Aurea">
+      </a>
     </td>
     <td width="50%">
       <h3>BunkWise</h3>
@@ -85,9 +45,12 @@ objects      → things that remain
         to know how far they can go before attendance pulls them back.
       </p>
       <p><code>android · student tool · planner</code></p>
-      <a href="https://bunkwiser.vercel.app/">Visit BunkWise</a>
+      <a href="https://bunkwiser.vercel.app/">
+        <img src="https://img.shields.io/badge/VISIT-BUNKWISE-7FAF8C?style=for-the-badge&labelColor=F4F0E8&color=7FAF8C" alt="Visit BunkWise">
+      </a>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>PocketOps</h3>
@@ -96,7 +59,9 @@ objects      → things that remain
         shortcuts, and phone-first operations.
       </p>
       <p><code>android · kotlin · utility</code></p>
-      <a href="https://pocketops192.vercel.app/">Visit PocketOps</a>
+      <a href="https://pocketops192.vercel.app/">
+        <img src="https://img.shields.io/badge/VISIT-POCKETOPS-9A7FC2?style=for-the-badge&labelColor=F4F0E8&color=9A7FC2" alt="Visit PocketOps">
+      </a>
     </td>
     <td width="50%">
       <h3>Inochi</h3>
@@ -105,60 +70,9 @@ objects      → things that remain
         and returning to what is worth watching.
       </p>
       <p><code>movies · curation · web</code></p>
-      <a href="https://inochi.vercel.app/">Visit Inochi</a>
+      <a href="https://inochi.vercel.app/">
+        <img src="https://img.shields.io/badge/VISIT-INOCHI-B65F5F?style=for-the-badge&labelColor=F4F0E8&color=B65F5F" alt="Visit Inochi">
+      </a>
     </td>
   </tr>
 </table>
-
----
-
-## Current Direction
-
-Right now, I am trying to build things that are not only useful and not only beautiful.
-
-I want them to have both.
-
-```txt
-purpose + existence
-```
-
-A tool should do something.  
-A place should feel like something.  
-The best things, I think, do both.
-
----
-
-## My Stack
-
-```txt
-Frontend       HTML · CSS · JavaScript
-Frameworks     Next.js · React
-Android        Kotlin · Android Studio
-Design         typography · mobile-first UI · editorial layouts
-Deployment     Vercel · Railway
-Style          quiet interfaces · soft motion · intentional spacing
-```
-
----
-
-## How I Think
-
-I usually build the container first.
-
-Then I become the person who can fill it.
-
-That pattern has followed almost everything I have made.
-
-Aperture & Atlas came before the travel.  
-Becoming came after the realization.  
-Aurea is being made as a small object for time itself.
-
----
-
-<p align="center">
-  <i>Most of my work is private.</i>
-  <br />
-  <i>Not because it is hidden.</i>
-  <br />
-  <i>Because it is still becoming.</i>
-</p>
