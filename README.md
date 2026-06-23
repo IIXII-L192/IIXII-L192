@@ -1,3 +1,54 @@
+<h1 align="center">L192</h1>
+
+<p align="center">
+  I make websites, Android apps, tools, and quiet digital things.
+  <br />
+  Somewhere between utility and atmosphere.
+</p>
+
+<p align="center">
+  <a href="https://anshu192.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-ANSHU192-6F5E53?style=for-the-badge&labelColor=F4F0E8&color=6F5E53" alt="Portfolio">
+  </a>
+  <a href="https://becoming192.vercel.app/">
+    <img src="https://img.shields.io/badge/READ-BECOMING-7F9DB6?style=for-the-badge&labelColor=F4F0E8&color=7F9DB6" alt="Becoming">
+  </a>
+  <a href="https://apertureatlas192.vercel.app/">
+    <img src="https://img.shields.io/badge/VISIT-APERTURE_&_ATLAS-BB8B5F?style=for-the-badge&labelColor=F4F0E8&color=BB8B5F" alt="Aperture & Atlas">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>I thought I was building websites.</i>
+  <br />
+  <i>I ended up realizing I was building myself.</i>
+</p>
+
+---
+
+## What I Build
+
+I do not like making things that only exist because they can.
+
+I like making things with a reason.
+
+Some projects are tools.  
+Some are places.  
+Some are containers for a future version of myself.
+
+The best ones feel like they were waiting to exist.
+
+```txt
+tools        → things that solve
+places       → things that hold
+stories      → things that reveal
+objects      → things that remain
+```
+
+---
+
 ## Selected Work
 
 <table>
@@ -28,14 +79,14 @@
 
   <tr>
     <td width="50%">
-      <h3>Aurea</h3>
+      <h3>Inochi</h3>
       <p>
-        A quiet Android-first object built around one small daily ritual:
-        one color, one reflection, one day.
+        A cinema companion built for discovering, curating,
+        and returning to what is worth watching.
       </p>
-      <p><code>android · widget · reflection · color</code></p>
-      <a href="https://aurea192.vercel.app/">
-        <img src="https://img.shields.io/badge/VISIT-AUREA-C6A15B?style=for-the-badge&labelColor=F4F0E8&color=C6A15B" alt="Visit Aurea">
+      <p><code>movies · curation · web</code></p>
+      <a href="https://inochi.vercel.app/">
+        <img src="https://img.shields.io/badge/VISIT-INOCHI-B65F5F?style=for-the-badge&labelColor=F4F0E8&color=B65F5F" alt="Visit Inochi">
       </a>
     </td>
     <td width="50%">
@@ -64,15 +115,68 @@
       </a>
     </td>
     <td width="50%">
-      <h3>Inochi</h3>
+      <h3>Aurea</h3>
       <p>
-        A cinema companion built for discovering, curating,
-        and returning to what is worth watching.
+        A quiet Android-first object built around one small daily ritual:
+        one color, one reflection, one day.
       </p>
-      <p><code>movies · curation · web</code></p>
-      <a href="https://inochi.vercel.app/">
-        <img src="https://img.shields.io/badge/VISIT-INOCHI-B65F5F?style=for-the-badge&labelColor=F4F0E8&color=B65F5F" alt="Visit Inochi">
+      <p><code>android · widget · reflection · color</code></p>
+      <a href="https://aurea192.vercel.app/">
+        <img src="https://img.shields.io/badge/VISIT-AUREA-C6A15B?style=for-the-badge&labelColor=F4F0E8&color=C6A15B" alt="Visit Aurea">
       </a>
     </td>
   </tr>
 </table>
+
+---
+
+## Current Direction
+
+Right now, I am trying to build things that are not only useful and not only beautiful.
+
+I want them to have both.
+
+```txt
+purpose + existence
+```
+
+A tool should do something.  
+A place should feel like something.  
+The best things, I think, do both.
+
+---
+
+## My Stack
+
+```txt
+Frontend       HTML · CSS · JavaScript
+Frameworks     Next.js · React
+Android        Kotlin · Android Studio
+Design         typography · mobile-first UI · editorial layouts
+Deployment     Vercel · Railway
+Style          quiet interfaces · soft motion · intentional spacing
+```
+
+---
+
+## How I Think
+
+I usually build the container first.
+
+Then I become the person who can fill it.
+
+That pattern has followed almost everything I have made.
+
+Aperture & Atlas came before the travel.  
+Becoming came after the realization.  
+Aurea is being made as a small object for time itself.
+
+---
+
+<p align="center">
+  <i>Most of my work is private.</i>
+  <br />
+  <i>Not because it is hidden.</i>
+  <br />
+  <i>Because it is still becoming.</i>
+</p>
