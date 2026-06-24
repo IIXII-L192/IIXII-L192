@@ -245,3 +245,9 @@ The best ones feel like they were waiting to exist.
 <p align="center">
   <sub>built quietly · revised obsessively · released when it feels alive</sub>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://count.getloli.com/@IIXII-L192-IIXII-L192?theme=booru-helltaker" alt="Visit Counter" />
+</p>
