@@ -251,3 +251,5 @@ The best ones feel like they were waiting to exist.
 <p align="center">
   <img src="https://count.getloli.com/@IIXII-L192-IIXII-L192?theme=booru-helltaker" alt="Visit Counter" />
 </p>
+
+Copyright (c) 2026 IIXII™. All rights reserved.
