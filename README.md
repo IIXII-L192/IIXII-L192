@@ -1,14 +1,14 @@
 <div align="center">
 
-### `l192@github ~ $ ./activity`
+### Activity
 
-<img src="./assets/terminal/contributions.svg" width="860" alt="Animated GitHub contribution calendar" />
+<img src="./assets/minimal/contributions.svg" width="860" alt="Animated GitHub contribution calendar" />
 
 <br>
 
-### `l192@github ~ $ whoami`
+### Aakarsh Singhal
 
-<img src="./assets/terminal/profile.svg" width="860" alt="Profile of Aakarsh Singhal, L192" />
+<img src="./assets/minimal/profile.svg" width="860" alt="Profile of Aakarsh Singhal, L192" />
 
 <br>
 
