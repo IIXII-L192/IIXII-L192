@@ -1,20 +1,21 @@
-<div align="center">
+<p align="center">
+  <img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution graph" />
+</p>
 
-### `l192@github ~ $ ./activity`
+<p align="center">
+  <a href="https://apertureatlas192.vercel.app"><img src="./badges/aperture-atlas.svg" alt="Aperture & Atlas" /></a>&nbsp;&nbsp;
+  <a href="https://anshu192.vercel.app"><img src="./badges/the-lab.svg" alt="The Lab" /></a>&nbsp;&nbsp;
+  <a href="https://bunkly192.vercel.app"><img src="./badges/bunkly.svg" alt="Bunkly" /></a>
+</p>
 
-<img src="./assets/terminal/contributions.svg" width="860" alt="Animated GitHub contribution calendar" />
+<p align="center">
+  <a href="https://pocketops192.vercel.app"><img src="./badges/pocketops.svg" alt="PocketOps" /></a>&nbsp;&nbsp;
+  <a href="https://iixiistore.vercel.app"><img src="./badges/iixii-store.svg" alt="IIXII Store" /></a>
+</p>
 
-<br>
-
-### `l192@github ~ $ whoami`
-
-<img src="./assets/terminal/profile.svg" width="860" alt="Profile of Aakarsh Singhal, L192" />
-
-<br>
-
-[Portfolio](https://anshu192.vercel.app) · [IIXII Store](https://iixiistore.vercel.app) · [Photography](https://apertureatlas192.vercel.app) · [Contact](https://unio192.vercel.app/dev)
-
-</div>
+<p align="center">
+  <img src="./profile-views.svg" width="860" alt="GitHub profile views statistics" />
+</p>
 
 ---
 
