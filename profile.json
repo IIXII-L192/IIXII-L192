@@ -1,0 +1,17 @@
+{
+  "username": "IIXII-L192",
+  "name": "Aakarsh Singhal",
+  "alias": "L192",
+  "studio": "IIXII",
+  "location": "Delhi, India",
+  "about": "I make websites, Android apps, tools, and quiet digital things. Somewhere between utility and atmosphere.",
+  "featured_project": {
+    "label": "IIXII Store",
+    "repo": "IIXII-L192/IIXIIStore",
+    "url": "https://iixiistore.vercel.app"
+  },
+  "portfolio": "https://anshu192.vercel.app",
+  "contact": "https://unio192.vercel.app/dev",
+  "photography": "https://apertureatlas192.vercel.app",
+  "quote": "I thought I was building websites. I ended up realizing I was building myself."
+}
